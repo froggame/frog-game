@@ -3,7 +3,8 @@
       |
       V
 Hand control over
-   to frog.py
+to frog.py or use
+  goto (shudder)
       |
       |
       |
