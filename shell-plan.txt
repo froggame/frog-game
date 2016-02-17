@@ -1,0 +1,18 @@
+ splash screen
+      |
+      |
+      V
+Hand control over
+   to frog.py
+      |
+      |
+      |
+      V
+Create variables --------> Choose "card"
+                           /    |
+              ____________/     |
+            /                   |
+           /                    V
+          /           Follove "instructions"
+Redefine varibles  <---  on card according to
+                          data on "card"
